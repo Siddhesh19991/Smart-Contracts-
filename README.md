@@ -1,4 +1,4 @@
 # Smart-Contracts-
 
 
-Smart code written in solidity language
+Smart contract code written in solidity language
